@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<faq name="Aequitas Rules Roundup 2020-08" source_url="" published_date="2020-09-01" sourced_at="2020-09-01">
+    <target name="Sonic-Stun Gun">
+        <entry id="1">
+            <question>
+                Does Sonic Stun Gun's effect count for itself?
+            </question>
+            <answer>
+                No, Sonic Stun-Gun doesn't see itself being played. 
+            </answer>
+        </entry>
+    </target>
+</faq>

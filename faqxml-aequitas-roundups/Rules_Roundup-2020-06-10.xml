@@ -20,4 +20,14 @@
             </answer>
         </entry>
     </target>
+    <target name="Reprocess">
+        <entry id="3">
+            <question>
+                What happens if I Reprocess to Scrap an Increased Durability on a character with 3 health remaining?
+            </question>
+            <answer>
+                The Increased Durability is scrapped and the character is KO'd. As the character is now in the KO area, the repair does not happen. 
+            </answer>
+        </entry>
+    </target>
 </faq>

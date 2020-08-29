@@ -30,4 +30,14 @@
             </answer>
         </entry>
     </target>
+    <target name="Start Your Engines">
+        <entry id="4">
+            <question>
+                Start Your Engines says "Flip each of your characters from bot mode to Car mode". Does this mean that you can target "Car mode" with Precision Fire? Is Car a mode?
+            </question>
+            <answer>
+                No. Car is a trait. Despite the cards using 'mode', you should read Car mode as a short hand for Alt mode with Car trait. The same is true for Hunker Down and Tank mode, and Pop a Wheelie and Motorcycle mode.
+            </answer>
+        </entry>
+    </target>
 </faq>

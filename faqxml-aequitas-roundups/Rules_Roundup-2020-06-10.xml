@@ -82,8 +82,8 @@
             </answer>
         </entry>
     </target>
-    <target name="Tidal Wave - Dark Fleet (Aircraft Carrier)" tags="Tidal Wave - Dark Fleet (Transport)">
-        <entry id="9">
+    <target name="Tidal Wave - Dark Fleet (Aircraft Carrier)">
+        <entry id="9" tags="Tidal Wave - Dark Fleet (Transport)">
             <question>
                 Do Tidal Wave’s deployable 4-stars need to be included in a deck list, or can they be switched out between games independently of the sideboard?
             </question>

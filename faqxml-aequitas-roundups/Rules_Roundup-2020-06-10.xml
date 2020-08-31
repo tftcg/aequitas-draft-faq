@@ -40,4 +40,56 @@
             </answer>
         </entry>
     </target>
+    <target name="Blitzwing - Relentless Foe" tags="Windsweeper - Air Defense">
+        <entry id="5">
+            <question>
+                For the purposes of Windsweeper's alt-mode ability, is Blitzwing a Plane on your starting team?
+            </question>
+            <answer>
+                No. Your starting team are the visible cards you present to your opponent at the beginning of the game to show you have an acceptable numbers of stars. These are the sides of the cards that show the star costs of the cards. 
+
+                Given this, Blitzwing is a Tank on your starting team unless you are playing the Master Converter stratagem, in which case Blitzwing is both a Tank and Plane on your starting team. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Wolfwire - Ground Tracker">
+        <entry id="6">
+            <question>
+                Can Wolfwire pick up a Paralyzo Box?
+            </question>
+            <answer>
+                Yes. In bot-mode, Wolfwire's ability indicates that instead of the game concept of swapping a green battle icon, Wolfwire can put one in hand. While Wolfwire, with a Melee trait, is unable to swap a card for Paralyzo Box due to its Ranged hybrid green battle icon, it is still a green battle icon and qualifies for his ability. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Lucky Dodge">
+        <entry id="7">
+            <question>
+                If I have 1 damage remaining before a character is KO'd, will Lucky Dodge always work because it can only take 1 damage?
+            </question>
+            <answer>
+                No. A character takes whatever attack damage is applied to it, regardless of how much damage remains to KO the character. Lucky Dodge works on the attack damage being applied to the character, not the actual damage needed to KO them.
+            </answer>
+        </entry>
+    </target>
+    <target name="Ominus">
+        <entry id="8">
+            <question>
+                Can Sky Shadow Sync be used in a deck that already includes Ominus, allowing you to potentially have two Ominus card's on the battlefield at the same time?
+            </question>
+            <answer>
+                Yes. Character cards from Outside the Game are outside of the rule disallowing duplicate characters from being used. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Tidal-Wave - Dark Fleet (Aircraft Carrier)" tags="Tidal-Wave - Dark Fleet (Transport)">
+        <entry id="9">
+            <question>
+                Do Tidal Wave’s deployable 4-stars need to be included in a deck list, or can they be switched out between games independently of the sideboard?
+            </question>
+            <answer>
+                The deployable 4-star characters do not need to be listed in a deck list, allowing different characters to be used in different games. The correct play is for each player to present their starting team to each other, and then the Tidal Wave player fetches their 4-star character, or characters, shows them to their opponent to confirm they are 4 stars or fewer, and places them under the relevant Tidal Wave cards. 
+            </answer>
+        </entry>
+    </target>
 </faq>

@@ -131,8 +131,20 @@
       </entry>
     </target>
 
+    <target name="Intrusion Countermeasures Software">
+        <entry id="14" tags="Counterespionage">
+        <question>
+          Intrusion Countermeasures Software vs Counterespionage I have a face-down ICS and a second copy in hand. My opponent plays Counterespionage naming ICS. What happens?
+        </question>
+        <answer>
+          Your opponent plays Counterespionage (CS), names Intrusion Countermeasures Software (ICS), and looks at your hand.
+          As Counterespionage would actually cause you to scrap the copy of ICS you have in hand, we assume you reveal the copy you have in play. ICS then resolves and makes it impossible for your opponent to scrap the ICS in your hand. Instead that part of the effect is replaced by the card drawing effect. Your opponent will then resolve the most they can of the remaining effect of CS, and scrap only the revealed ICS in play while you draw 2 cards. This is because the effect of a secret action resolves when the card is revealed, and does not depend on whether the card remains in play or not.
+        </answer>
+      </entry>
+    </target>
+
     <target name="Head Mode &amp; Body Mode">
-        <entry id="14">
+        <entry id="15">
           <question>
             Does a card that refers to Bot Mode apply to a Titan Master (Head + Body mode)?
           </question>
@@ -145,7 +157,7 @@
       </entry>
     </target>
     <target name="Topspin - Air &amp; Space Assault">
-        <entry id="15">
+        <entry id="16">
           <question>
               Topspin doesn't have any stars on his card, can I play him for free?
           </question>

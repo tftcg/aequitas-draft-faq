@@ -72,6 +72,7 @@
             </answer>
         </entry>
     </target>
+    <!-- We may say No. Commenting out. 
     <target name="Ominus">
         <entry id="8">
             <question>
@@ -82,6 +83,7 @@
             </answer>
         </entry>
     </target>
+    -->
     <target name="Tidal Wave - Dark Fleet (Aircraft Carrier)">
         <entry id="9" tags="Tidal Wave - Dark Fleet (Transport)">
             <question>

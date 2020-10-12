@@ -50,4 +50,14 @@
             </answer>
         </entry>
     </target>
+    <target name="Tidal Wave - Dark Fleet (Transport)">
+        <entry id="6" tags="Tidal Wave - Dark Fleet (Aircraft Carrier)">
+            <question>
+                Are the characters under Tidal Wave - Dark Fleet (Transport) and Tidal Wave - Dark Fleet (Aircraft Carrier) part of your starting team?
+            </question>
+            <answer>
+                No. They are added to the field after you present your starting team. 
+            </answer>
+        </entry>
+    </target>
 </faq>

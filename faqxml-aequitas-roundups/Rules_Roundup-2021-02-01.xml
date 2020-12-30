@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<faq name="Aequitas Rules Roundup 2021-02-01" source_url="" published_date="2021-02-01" sourced_at="2021-02-01">
+    <target name="Stratagem">
+        <entry id="1">
+            <question>
+                When do you choose to add stratagems out of your sideboard? When declaring characters or when sideboarding battlecards?
+            </question>
+            <answer>
+                Stratagems are played concurrently with the starting team for a game. This is required otherwise cards like Master Converter and Aerial Enhancements would not effect the starting team, leading Windsweeper to be sad when Blitzwing and Tracks don't count as Planes. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Dual-Wield">
+        <entry id="2">
+            <question>
+                A typical character has a Shoulder Holster and two Weapons. I play Dual-Wield, adding a new Weapon to the character, and then I play a Utility to replace the Shoulder Holster. What happens?
+            </question>
+            <answer>
+                Your character now has 3 Weapons but only 2 Weapon slots. You have to scrap one of the Weapons, but which Weapon you scrap is your choice. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Megatron - Living Weapon">
+        <entry id="3">
+            <question>
+                How does Crystal of Power work with Megatron, Living Weapon?
+            </question>
+            <answer>
+                Crystal of Power is both a Weapon and an Armor, and per its reminder text, fills 2 slots on your character. The actual reminder text however is confusing when it comes to Megatron. It says "This occupies 1 Weapon slot and 1 Armor slot", which when compared to Megatron's ability to "be upgraded with a Weapon in his Armor and/or Utility slots" makes it sound as though Crystal of Power is overriding Megatron's ability.
+
+                This is a good example that reminder text is not rules text. It is there to help someone inexperienced with the game rather than define how a card works. It is fine for Megatron, Living Weapon, to use his Utility slot to fulfill the Weapon condition of Crystal of Power. You couldn't however put the Crystal of Power in his one Armor slot, but if you had a Utility applied like Defensive Configuration, giving you an extra Armor slot, you could put the Crystal of Power in two Armor slots. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Cerebros - City Commander">
+        <entry id="4">
+            <question>
+                If Cerebros attacks and, using his flip condition, fetches a Grenade Launcher from the scrap, what happens to it?
+            </question>
+            <answer>
+                The Grenade Launcher will be scrapped after battle. This is in contrast to Fusion Borer, which would stay on Cerebros after the attack. 
+
+                This is due to a change in language as the game evolved. Early on, WotC used language like "After the upgraded character attacks -> Scrap this card.". Later, they adjusted to "When the upgraded character attacks/defends -> Scrap this card after the battle.". This newer language ties the scrap to the more common "When battles" trigger and not to the rarely used "After battle" trigger". 
+
+                The same is true for other older cards like Evasive Maneuvers, Blast Shield, and Power Punch, vs newer cards like Emergency Barricade and Crystal of Power. 
+            </answer>
+        </entry>
+    </target>
+</faq>

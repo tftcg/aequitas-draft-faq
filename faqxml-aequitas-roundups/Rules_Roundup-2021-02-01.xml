@@ -46,4 +46,24 @@
             </answer>
         </entry>
     </target>
+    <target name="Autobot Nautica - Camien Engineer">
+        <entry id="5">
+            <question>
+                How does Nautica's body mode work with Emergency Barricade and Crystal of Power?
+            </question>
+            <answer>
+                If, when defending, you upgrade Nautica with an Emergency Barricade, it will remain on her until the next time she defends. This is because the 'when defends' event has already happened before Emergency Barricade was played. If, when defending, you upgrade her with Crystal of Power, it will remain until the next time she battles. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Bolster">
+        <entry id="6">
+            <question>
+                What happens when I reveal Bolster to play an Emergency Barricade or Crystal of Power?
+            </question>
+            <answer>
+                If, when defending, you reveal Bolster to upgrade a character with an Emergency Barricade, it will remain on them until the next time they defends. This is because the 'when defends' event has already happened before Emergency Barricade was played. If, instead, you had upgraded with Crystal of Power, it will remain until the next time the upgraded character battles. 
+            </answer>
+        </entry>
+    </target>
 </faq>

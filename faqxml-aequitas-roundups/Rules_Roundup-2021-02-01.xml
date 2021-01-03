@@ -82,7 +82,7 @@
                 Slipstream (alt mode) is attacking Skullsmasher (body mode). Does Slipstream pass a damage then take a damage, or does she take a damage and then pass a damage?
             </question>
             <answer>
-                Looking at the <a href="https://www.tf-rules.info/rules/Expanded_Rules-RFC-2.html#_attack">Expanded Rules</a>, an attacker taps in 1.3.1.2, whereas an attacker's "when this attacks" trigger happens at 1.3.1.5. This means that Skullsmasher triggers first, doing a damage to Slipstream, and then Slipstream moves a damage to the defender. 
+                Looking at the <a href="https://www.tf-rules.info/rules/Expanded_Rules-RFC-2.html#_attack">Expanded Rules</a>, an attacker taps in 1.3.1.2, whereas an attacker's "when this attacks" trigger happens at 1.3.1.5. Therefore Skullsmasher triggers first, doing a damage to Slipstream, and then Slipstream moves a damage to the defender. 
             </answer>
         </entry>
     </target>
@@ -92,7 +92,7 @@
                 If I play Hit and Run on Metroplex to flip to alt mode, and I move the damage to KO a Sky Shadow piece, is the damage done first or does the minion deploy first?
             </question>
             <answer>
-                As Sky Shadow does 3 damage to an Autobot when it combines, this is a very relevant question. The answer is that you resolve the card's contents first, and then resolve any effects that triggered in reverse order. This means that you move the damage first to KO the Sky Shadow piece. This event triggers a new effect, the combining of Sky Shadow, and the Sky Shadow player chooses an Autobot to do 3 damage to. Lastly, you return to your stack of triggered effects and deploy your Metroplex minion. 
+                As Sky Shadow does 3 damage to an Autobot when it combines, this is a very relevant question. The answer is that you resolve the card's contents first, and then resolve any effects that triggered in reverse order. This means that you flip Metroplex to alt mode, triggering his deploy effect, then you move the damage to KO the Sky Shadow piece. This event triggers a new effect, the combining of Sky Shadow, and the Sky Shadow player chooses an Autobot to do 3 damage to. Lastly, you return to your stack of triggered effects and deploy your Metroplex minion. 
             </answer>
         </entry>
     </target>

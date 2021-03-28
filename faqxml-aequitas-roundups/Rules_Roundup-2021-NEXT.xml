@@ -19,5 +19,13 @@
                 You get +4 attack. The 'or' in "face up or face down" should be read as 'and/or'. 
             </answer>
         </entry>
+        <entry id="3">
+            <question>
+                If I have Secret Actions in my hand, scrap pile, under a character, or even in my KO area (say because of Daring Escape), do those count?
+            </question>
+            <answer>
+                 No. Pounce counts only the Secret Actions in your played area. 
+            </answer>
+        </entry>
     </target>
 </faq>

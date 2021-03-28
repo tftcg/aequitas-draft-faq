@@ -6,7 +6,7 @@
                 If my opponent has one face up Secret Action and one face down Secret Action, do I do 1 damage to each enemy, or two? 
             </question>
             <answer>
-                You would do 2 damage to each enemy. The 'or' in "face up or face down" should be read as 'and/or'. 
+                You would do 1 damage to each enemy, and then 1 damage again. The 'or' in "face up or face down" should be read as 'and/or'.
             </answer>
         </entry>
     </target>

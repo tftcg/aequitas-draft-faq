@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<faq name="Aequitas Rules Roundup 2021-NEXT" source_url="" published_date="2021-??-??" sourced_at="2021-??-??">
+    <target name="Decipher">
+        <entry id="1">
+            <question>
+                If my opponent has one face up Secret Action and one face down Secret Action, do I do 1 damage to each enemy, or two? 
+            </question>
+            <answer>
+                You would do 2 damage to each enemy. The 'or' in "face up or face down" should be read as 'and/or'. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Decepticon Pounce - Infiltrator">
+        <entry id="2">
+            <question>
+                If I have one face up Secret Action and one face down Secret Action, do I get +2 attack or +4 attack?
+            </question>
+            <answer>
+                You get +4 attack. The 'or' in "face up or face down" should be read as 'and/or'. 
+            </answer>
+        </entry>
+    </target>
+</faq>

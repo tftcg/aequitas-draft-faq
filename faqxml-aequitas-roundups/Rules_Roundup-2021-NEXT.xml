@@ -3,7 +3,7 @@
     <target name="Decipher">
         <entry id="1">
             <question>
-                If my opponent has one face up Secret Action and one face down Secret Action, do I do 1 damage to each enemy, or two? 
+                If my opponent has one face up Secret Action and one face down Secret Action, do I do 1 damage to each enemy, or 2? 
             </question>
             <answer>
                 You would do 1 damage to each enemy, and then 1 damage again. The 'or' in "face up or face down" should be read as 'and/or'.

@@ -28,4 +28,14 @@
             </answer>
         </entry>
     </target>
+    <target name="Skywarp - Teleporting Seeker">
+        <entry id="4" tags="Swarm!">
+            <question>
+                If I play Swarm! and flip a card with no battle icon, will Skywarp get +3/+3 in bot mode?
+            </question>
+            <answer>
+                Yes.
+            </answer>
+        </entry>
+    </target>
 </faq>

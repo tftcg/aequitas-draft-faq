@@ -3,7 +3,7 @@
     <target name="Decipher">
         <entry id="1">
             <question>
-                If my opponent has one face up Secret Action and one face down Secret Action, do I do 1 damage to each enemy, or 2? 
+                If my opponent has one face up Secret Action and one face down Secret Action, do I do 1 damage to each enemy, or 2?
             </question>
             <answer>
                 You would do 1 damage to each enemy, and then 1 damage again. The 'or' in "face up or face down" should be read as 'and/or'.
@@ -16,7 +16,7 @@
                 If I have one face up Secret Action and one face down Secret Action, do I get +2 attack or +4 attack?
             </question>
             <answer>
-                You get +4 attack. The 'or' in "face up or face down" should be read as 'and/or'. 
+                You get +4 attack. The 'or' in "face up or face down" should be read as 'and/or'.
             </answer>
         </entry>
         <entry id="3">
@@ -24,7 +24,7 @@
                 If I have Secret Actions in my hand, scrap pile, under a character, or even in my KO area (say because of Daring Escape), do those count?
             </question>
             <answer>
-                 No. Pounce counts only the Secret Actions in your played area. 
+                 No. Pounce counts only the Secret Actions in your played area.
             </answer>
         </entry>
     </target>
@@ -35,6 +35,56 @@
             </question>
             <answer>
                 Yes.
+            </answer>
+        </entry>
+    </target>
+    <target name="Chromedome - Computer Programmer" tags="Decepticon Shockwave - Cybertron Commander">
+        <entry id="5">
+            <question>
+                When Chromedome flips to body mode and you get to KO an opponent's Action, does that trigger Decepticon Shockwave's bot mode?
+            </question>
+            <answer>
+                No. The Action is 'put' into the KO area, not scrapped, thus it does not trigger Decepticon Shockwave's bot mode.
+            </answer>
+        </entry>
+    </target>
+    <target name="Metroplex - Autobot City" tags="Trypticon - Assault Base">
+        <entry id="6">
+            <question>
+                Which mode do Trypticon and Metroplex minions start in?
+            </question>
+            <answer>
+                By default all characters start in the mode showing their star cost. So the minions, while not visible under Trypticon and Metroplex are in alt mode. The Relentless Invasion card does however provide a way for a Trypticon minion to be under Trypticon in bot mode.
+            </answer>
+        </entry>
+    </target>
+    <target name="Nightbird - Enigmatic Agent">
+        <entry id="7">
+            <question>
+                If you attack with Nightbird and use her bounty ability, can you use steamroll from the opponent's scrap pile?
+            </question>
+            <answer>
+                No. By the time Steamroll gets to be played and applied, Nightbird's damage was already applied and the defender was already KO'd. Mind you, if you happen to attack again that same turn, then Steamroll could be applied to the next attacker/defender sequence that same turn.
+            </answer>
+        </entry>
+    </target>
+    <target name="Barrage - Merciless Insecticon">
+        <entry id="8">
+            <question>
+                If Hold the Line heals a character to 0 damage while Barrage is attacking, does Barrage get Bold 2?
+            </question>
+            <answer>
+                No. The Bold value is calculated after the defending character 'defends' and Hold the Line is revealed.
+            </answer>
+        </entry>
+    </target>
+    <target name="War of Attrition">
+        <entry id="9">
+            <question>
+                If a War of Attrition is used to KO a character with a Head, can any additional War of Attritions be used on the Head?
+            </question>
+            <answer>
+                No. The KO trigger on the character with the Head has to wait until any subsequent War of Attritions have been played.
             </answer>
         </entry>
     </target>
